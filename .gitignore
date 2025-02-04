@@ -1,0 +1,4 @@
+__pycache__/
+
+# in case pySpedas loads files in local subfolder 
+elfin_data/
